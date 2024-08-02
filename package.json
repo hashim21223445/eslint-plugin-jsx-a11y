@@ -47,7 +47,7 @@
     "@babel/eslint-parser": "^7.24.7",
     "@babel/plugin-transform-flow-strip-types": "^7.24.7",
     "@babel/register": "^7.24.6",
-    "aud": "^2.0.4",
+    "aud": "^3.0.1",
     "auto-changelog": "^2.4.0",
     "babel-jest": "^24.9.0",
     "babel-plugin-add-module-exports": "^1.0.4",
